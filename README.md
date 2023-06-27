@@ -3,7 +3,7 @@
 <li>透過點選螢幕中出現的小紅球，來獲得分數</li>
 <li>遊戲中小紅球會每秒變換位置</li></ul>
 
-<p style="line-height:1;">圖片來源:
+<p style="line-height:0.5;">圖片來源:
 <ul type=circle>
   <li>bing.jpg : https://www.vecteezy.com/vector-art/552736-exploding-fireworks-logo-vector-icon</li>
   <li>excellent.png: https://www.grammarcheck.me/wp-content/uploads/2023/04/demonstrating-how-to-use-the-word-excellent.png?ezimgfmt=rs:740x423/rscb1/ng:webp/ngcb1</li>
