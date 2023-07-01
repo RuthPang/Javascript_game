@@ -1,2 +1,2 @@
-# javascript_game
-
+# Javascript_game
+這裡為我用javascript製作的一些小遊戲或動畫
