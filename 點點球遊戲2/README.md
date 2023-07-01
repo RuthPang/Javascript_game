@@ -1,7 +1,10 @@
 # 點點球遊戲
-<ul><li>這是我用javascript製作動畫完成的小遊戲</li>
-<li>透過點選螢幕中出現的小紅球，來獲得分數</li>
-<li>遊戲中小紅球會每秒變換位置</li></ul>
+<ul>
+  <li>這是我用javascript製作動畫完成的小遊戲</li>
+  <li>透過點選螢幕中出現的小紅球，來獲得分數</li>
+  <li>遊戲中小紅球會每秒變換位置</li>
+  <li>開啟ball_game.html即可開始遊戲</li>
+</ul>
 </br>
 <ul type=circle>
   <li>圖片來源:</li>
